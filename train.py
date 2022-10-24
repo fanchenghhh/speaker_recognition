@@ -29,6 +29,7 @@ import sys
 
 import speechbrain as sb
 import torch
+import torchaudio
 from hyperpyyaml import load_hyperpyyaml
 
 # from mini_librispeech_prepare import prepare_mini_librispeech
@@ -237,7 +238,10 @@ def dataio_prep(hparams):
     def audio_pipeline(wav):
         """Load the signal, and pass it and its length to the corruption class.
         This is done on the CPU in the `collate_fn`."""
+        info = torchaudio.info(wav)
         sig = sb.dataio.dataio.read_audio(wav)
+        if info.num_channels > 1:
+            sig = torch.mean(sig, dim=1)
         return sig
 
     # Define label pipeline:
@@ -283,27 +287,21 @@ def dataio_prep(hparams):
 if __name__ == "__main__":
 
     # Reading command line arguments.
-    print("Checkpoint: parse_arguments")
     hparams_file, run_opts, overrides = sb.parse_arguments(sys.argv[1:])
-    print("Finish: parse_arguments")
 
     # Initialize ddp (useful only for multi-GPU DDP training).
     sb.utils.distributed.ddp_init_group(run_opts)
 
     # Load hyperparameters file with command-line overrides.
-    print("Checkpoint: load_hyperpyyaml")
     with open(hparams_file) as fin:
         hparams = load_hyperpyyaml(fin, overrides)
-    print("Finish: load_hyperpyyaml")
 
-    print("Checkpoint: create_experiment_directory")
     # Create experiment directory
     sb.create_experiment_directory(
         experiment_directory=hparams["output_folder"],
         hyperparams_to_save=hparams_file,
         overrides=overrides,
     )
-    print("Finish: create_experiment_directory")
     # Data preparation, to be run on only one process.
     # sb.utils.distributed.run_on_main(
     #     prepare_mini_librispeech,
@@ -316,7 +314,6 @@ if __name__ == "__main__":
     #     },
     # )
 
-    print("Checkpoint: dataio_prep")
     # Create dataset objects "train", "valid", and "test".
     datasets = dataio_prep(hparams)
 
@@ -328,7 +325,6 @@ if __name__ == "__main__":
         run_opts=run_opts,
         checkpointer=hparams["checkpointer"],
     )
-
     # The `fit()` method iterates the training loop, calling the methods
     # necessary to update the parameters of the model. Since all objects
     # with changing state are managed by the Checkpointer, training can be

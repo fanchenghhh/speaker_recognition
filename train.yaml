@@ -45,10 +45,10 @@ n_mels: 23
 # Training Parameters
 sample_rate: 16000
 number_of_epochs: 35
-batch_size: 16
+batch_size: 15
 lr_start: 0.001
 lr_final: 0.0001
-n_classes: 28 # In this case, we have 28 speakers
+n_classes: 5 # In this case, we have 28 speakers
 emb_dim: 512 # dimensionality of the embeddings
 dataloader_options:
     batch_size: !ref <batch_size>

@@ -1,151 +1,151 @@
 {
-    "1": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/zlb8.wav",
-        "length": 3.072,
-        "spk_id": 0
-    },
-    "2": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/zlb3.wav",
-        "length": 1.92,
-        "spk_id": 0
-    },
-    "6": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/zlb10.wav",
-        "length": 3.029333333333333,
+    "0": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/zlb5.wav",
+        "length": 1.536,
         "spk_id": 0
     },
     "7": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/zlb4.wav",
-        "length": 2.176,
-        "spk_id": 0
-    },
-    "9": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/zlb7.wav",
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/zlb7.wav",
         "length": 4.224,
         "spk_id": 0
     },
-    "11": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/qjx9.wav",
-        "length": 7.125333333333334,
+    "8": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/zlb10.wav",
+        "length": 3.029333333333333,
+        "spk_id": 0
+    },
+    "9": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/zlb9.wav",
+        "length": 2.7306666666666666,
+        "spk_id": 0
+    },
+    "10": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/wx5.wav",
+        "length": 5.1626666666666665,
         "spk_id": 1
     },
-    "12": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/qjx10.wav",
-        "length": 5.674666666666667,
+    "11": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/wx10.wav",
+        "length": 3.7973333333333334,
         "spk_id": 1
     },
     "14": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/qjx3.wav",
-        "length": 4.2026666666666666,
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/wx8.wav",
+        "length": 2.816,
         "spk_id": 1
     },
     "15": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/qjx1.wav",
-        "length": 4.053333333333334,
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/wx4.wav",
+        "length": 2.453333333333333,
         "spk_id": 1
     },
     "17": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/qjx5.wav",
-        "length": 7.402666666666667,
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/wx1.wav",
+        "length": 2.986666666666667,
         "spk_id": 1
     },
     "18": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/qjx7.wav",
-        "length": 2.7733333333333334,
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/wx9.wav",
+        "length": 4.394666666666667,
         "spk_id": 1
     },
     "19": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/qjx6.wav",
-        "length": 4.2026666666666666,
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/wx6.wav",
+        "length": 2.688,
         "spk_id": 1
     },
-    "20": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/wx3.wav",
-        "length": 3.562666666666667,
+    "21": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/fc9.wav",
+        "length": 3.7333333333333334,
         "spk_id": 2
     },
-    "25": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/wx6.wav",
-        "length": 2.688,
+    "22": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/fc4.wav",
+        "length": 2.176,
+        "spk_id": 2
+    },
+    "23": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/fc6.wav",
+        "length": 4.650666666666667,
+        "spk_id": 2
+    },
+    "24": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/fc1.wav",
+        "length": 4.032,
         "spk_id": 2
     },
     "26": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/wx10.wav",
-        "length": 3.7973333333333334,
-        "spk_id": 2
-    },
-    "27": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/wx7.wav",
-        "length": 1.7706666666666666,
-        "spk_id": 2
-    },
-    "28": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/wx9.wav",
-        "length": 4.394666666666667,
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/fc3.wav",
+        "length": 3.029333333333333,
         "spk_id": 2
     },
     "29": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/wx8.wav",
-        "length": 2.816,
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/fc8.wav",
+        "length": 3.925333333333333,
         "spk_id": 2
     },
     "31": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/fc3.wav",
-        "length": 3.029333333333333,
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/qjx9.wav",
+        "length": 7.125333333333334,
         "spk_id": 3
     },
     "32": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/fc1.wav",
-        "length": 4.032,
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/qjx2.wav",
+        "length": 3.3493333333333335,
         "spk_id": 3
     },
-    "34": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/fc5.wav",
-        "length": 2.7093333333333334,
-        "spk_id": 3
-    },
-    "36": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/fc6.wav",
-        "length": 4.650666666666667,
+    "37": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/qjx4.wav",
+        "length": 2.965333333333333,
         "spk_id": 3
     },
     "38": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/fc8.wav",
-        "length": 3.925333333333333,
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/qjx8.wav",
+        "length": 5.290666666666667,
         "spk_id": 3
     },
+    "39": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/qjx10.wav",
+        "length": 5.674666666666667,
+        "spk_id": 3
+    },
+    "40": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/wsc4.wav",
+        "length": 2.56,
+        "spk_id": 4
+    },
     "41": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/wsc2.wav",
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/wsc2.wav",
         "length": 3.328,
         "spk_id": 4
     },
+    "42": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/wsc8.wav",
+        "length": 3.2426666666666666,
+        "spk_id": 4
+    },
     "43": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/wsc7.wav",
-        "length": 2.432,
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/wsc1.wav",
+        "length": 2.7306666666666666,
         "spk_id": 4
     },
     "44": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/wsc6.wav",
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/wsc6.wav",
         "length": 2.9013333333333335,
         "spk_id": 4
     },
     "45": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/wsc4.wav",
-        "length": 2.56,
-        "spk_id": 4
-    },
-    "47": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/wsc8.wav",
-        "length": 3.2426666666666666,
-        "spk_id": 4
-    },
-    "48": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/wsc9.wav",
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/wsc9.wav",
         "length": 4.650666666666667,
         "spk_id": 4
     },
+    "46": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/wsc3.wav",
+        "length": 4.394666666666667,
+        "spk_id": 4
+    },
     "49": {
-        "wav": "/Users/fancheng/MyFile/tum/master_thesis/speaker_recognition/data/wav/wsc10.wav",
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/wsc10.wav",
         "length": 3.7546666666666666,
         "spk_id": 4
     }
