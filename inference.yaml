@@ -7,13 +7,13 @@
 # #################################
  
 # pretrain folders:
-pretrained_path: speechbrain-develop/results/speaker_id/1986/save/CKPT+2022-10-14+11-54-51+00
+pretrained_path: "results/speaker_id/1986/save/CKPT+2022-10-24+23-28-06+00"
  
  
 # Model parameters
 n_mels: 23
 sample_rate: 16000
-n_classes: 3 # In this case, we have 28 speakers
+n_classes: 9 # In this case, we have 28 speakers
 emb_dim: 512 # dimensionality of the embeddings
  
 # Feature extraction
