@@ -37,14 +37,14 @@ error_stats: !name:speechbrain.utils.metric_stats.MetricStats
     metric: !name:speechbrain.nnet.losses.classification_error
         reduction: batch
 
-ckpt_interval_minutes: 15 # save checkpoint every N min
+ckpt_interval_minutes: 1 # save checkpoint every N min
 
 # Feature parameters
 n_mels: 23
 
 # Training Parameters
 sample_rate: 16000
-number_of_epochs: 35
+number_of_epochs: 20
 batch_size: 15
 lr_start: 0.001
 lr_final: 0.0001

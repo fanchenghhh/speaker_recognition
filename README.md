@@ -13,5 +13,5 @@ python src/convert_audio_to_wav.py -f "flac"
 
 src/train.py
 ```bash
-python src/train.py train.yaml --number_of_epochs=15 --device='cuda'
+python src/train.py train.yaml --device='cuda'
 ```

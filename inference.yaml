@@ -7,7 +7,7 @@
 # #################################
  
 # pretrain folders:
-pretrained_path: "results/speaker_id/1986/save/CKPT+2022-10-24+23-28-06+00"
+pretrained_path: "results/speaker_id/1986/save/CKPT+2022-10-25+01-04-11+00"
  
  
 # Model parameters
