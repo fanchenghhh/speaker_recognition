@@ -10,7 +10,7 @@ parser.add_argument("-f", "--format", required=True,
 
 args = parser.parse_args()
 
-root_dir = Path(__file__).parent.resolve()
+root_dir = Path(__file__).parent.parent.resolve()
 data_dir = root_dir / "data"
 
 original_dir = data_dir / args.format

@@ -1,0 +1,12 @@
+data_dir: "data/wav"
+export_dir: "data/manifest"
+test_ratio: 0.1  # Ignored if only_test_audios=True
+valid_ratio: 0.1
+
+only_test_audios: True
+test_audios:
+- "a3.wav"
+- "a6.wav"
+- "a10.wav"
+- "a15.wav"
+- "a7.wav"

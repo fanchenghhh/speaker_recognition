@@ -1,52 +1,52 @@
 {
-    "35": {
-        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/qjx1.wav",
-        "length": 4.053333333333334,
-        "spk_id": 3
+    "81": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/fc2.wav",
+        "length": 4.373333333333333,
+        "spk_id": 6
     },
-    "2": {
-        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/zlb6.wav",
-        "length": 2.176,
-        "spk_id": 0
-    },
-    "28": {
-        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/fc7.wav",
-        "length": 2.7306666666666666,
+    "26": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/c6.wav",
+        "length": 3.4710625,
         "spk_id": 2
     },
-    "13": {
-        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/wx7.wav",
-        "length": 1.7706666666666666,
-        "spk_id": 1
-    },
-    "5": {
-        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/zlb2.wav",
-        "length": 2.6026666666666665,
+    "0": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/py1.wav",
+        "length": 6.992,
         "spk_id": 0
     },
-    "33": {
-        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/qjx6.wav",
-        "length": 4.2026666666666666,
-        "spk_id": 3
-    },
-    "16": {
-        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/wx2.wav",
-        "length": 2.8586666666666667,
-        "spk_id": 1
-    },
-    "48": {
-        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/wsc7.wav",
-        "length": 2.432,
+    "52": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/a5.wav",
+        "length": 3.719,
         "spk_id": 4
     },
-    "20": {
-        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/fc5.wav",
-        "length": 2.7093333333333334,
+    "85": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/fc8.wav",
+        "length": 3.925333333333333,
+        "spk_id": 6
+    },
+    "71": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/wx4.wav",
+        "length": 2.453333333333333,
+        "spk_id": 5
+    },
+    "63": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/a12.wav",
+        "length": 5.2431875,
+        "spk_id": 4
+    },
+    "22": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/c17.wav",
+        "length": 3.4710625,
         "spk_id": 2
     },
-    "1": {
-        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/zlb3.wav",
-        "length": 1.92,
+    "11": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/py12.wav",
+        "length": 25.024,
         "spk_id": 0
+    },
+    "46": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/zlb2.wav",
+        "length": 2.6026666666666665,
+        "spk_id": 3
     }
 }

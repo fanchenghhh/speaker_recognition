@@ -1,52 +1,27 @@
 {
-    "4": {
-        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/zlb1.wav",
-        "length": 2.6026666666666665,
-        "spk_id": 0
-    },
-    "34": {
-        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/qjx5.wav",
-        "length": 7.402666666666667,
-        "spk_id": 3
-    },
-    "6": {
-        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/zlb8.wav",
-        "length": 3.072,
-        "spk_id": 0
-    },
-    "47": {
-        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/wsc5.wav",
-        "length": 5.418666666666667,
+    "56": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/a3.wav",
+        "length": 6.340625,
         "spk_id": 4
     },
-    "27": {
-        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/fc10.wav",
-        "length": 4.181333333333333,
-        "spk_id": 2
+    "54": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/a6.wav",
+        "length": 2.4386875,
+        "spk_id": 4
     },
-    "36": {
-        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/qjx7.wav",
-        "length": 2.7733333333333334,
-        "spk_id": 3
+    "64": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/a10.wav",
+        "length": 5.5480625,
+        "spk_id": 4
     },
-    "25": {
-        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/fc2.wav",
-        "length": 4.373333333333333,
-        "spk_id": 2
+    "60": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/a15.wav",
+        "length": 2.621625,
+        "spk_id": 4
     },
-    "30": {
-        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/qjx3.wav",
-        "length": 4.2026666666666666,
-        "spk_id": 3
-    },
-    "3": {
-        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/zlb4.wav",
-        "length": 2.176,
-        "spk_id": 0
-    },
-    "12": {
-        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/wx3.wav",
-        "length": 3.562666666666667,
-        "spk_id": 1
+    "65": {
+        "wav": "/home/guest/chengfan/speaker_recognition/data/wav/a7.wav",
+        "length": 2.072875,
+        "spk_id": 4
     }
 }
